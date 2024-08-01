@@ -1,0 +1,29 @@
+{
+  "play":"Play",
+  "myList":"My List",
+  "topMovies":"Top 10 Movies This Week",
+  "newReleases":"New Releases",
+  "loading":"Loading...",
+  "seeAll":"See all",
+  "download":"Download",
+  "viewMore":"View More",
+  "showLess":"Show Less",
+  "moreLikeThis":"More Like This",
+  "comments":"Comments",
+  "nComments": "{count, plural, =0{No comment} =1{1 Comment} other{{count} Comments}}",
+  "@nComments": {
+  "description": "A plural message",
+  "placeholders": {
+    "count": {
+      "type": "num",
+      "format": "compact"
+    }
+  }
+  },
+  "trailers":"Trailers",
+  "error":"Error...",
+  "genre":"Genre",
+  "daysAgo":"3 days ago",
+  "reply":"Reply",
+  "noTrailer":"No Trailer Available"
+}

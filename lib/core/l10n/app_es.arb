@@ -1,0 +1,29 @@
+{
+    "play":"Reproducir",
+    "myList":"Mi Lista",
+    "topMovies":"Top 10 Películas Esta Semana",
+    "newReleases":"Nuevos lanzamientos",
+    "loading":"Cargando...",
+    "seeAll":"Ver todo",
+    "download":"Descargar",
+    "viewMore":"Ver más",
+    "showLess":"Ver menos",
+    "moreLikeThis":"Más como esto",
+    "comments":"Comentarios",
+    "nComments": "{count, plural, =0{Sin comentarios} =1{1 Comentario} other{{count} Comentarios}}",
+    "@nComments": {
+    "description": "A plural message",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+    },
+    "trailers":"Avances",
+    "error":"Error...",
+    "genre":"Género",
+    "daysAgo":"Hace 3 días",
+    "reply":"Responder",
+    "noTrailer":"No Hay Avance Disponible"
+}
